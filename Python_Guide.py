@@ -96,3 +96,19 @@ d = {'Mark':95,'Bob':75,'Tracy':85}
 print d['Mark']
 d.pop('Tracy')
 print d
+print d.get('Bob')
+print d.get('Tracy',-1)
+
+#set
+s = set([1,2,3])
+print s
+s.add(4)
+print s
+s.remove(4)
+print s
+
+print abs(-100),max(1,2,3,47,1),min(1,2,3,40,4,0)
+print int('123')
+
+aa = abs
+print aa(-1),hex(255),hex(1000)

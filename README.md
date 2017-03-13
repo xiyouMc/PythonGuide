@@ -1,6 +1,6 @@
 # PythonGuide
 This`s a guide of python.
-
+[中文说明](https://github.com/xiyouMc/PythonGuide/wiki)
 ```python
 import json
 data = {'b':123,'c':456,'a':'789'}
